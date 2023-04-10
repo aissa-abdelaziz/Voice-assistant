@@ -1,5 +1,2 @@
-#Voice-assistant
+#Raspberry Pi Based Personal Voice Assistant
 
-
-
-thank you very much 
